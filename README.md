@@ -18,8 +18,8 @@ Before you begin, ensure you have the following installed:
 
 Follow these steps to set up your project:
 
-1.  **Open a Folder in VS Code:**
-    * Create a new folder for your project and open it in VS Code.
+1.  **Open the `software-dev-chatbot` Folder in VS Code:**
+    * Open the `software-dev-chatbot` folder in VS Code.
 
 2.  **Open a New Terminal:**
     * In VS Code, open a new terminal (e.g., by going to `Terminal > New Terminal`).
