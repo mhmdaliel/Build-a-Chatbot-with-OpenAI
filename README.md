@@ -18,29 +18,32 @@ Before you begin, ensure you have the following installed:
 
 Follow these steps to set up your project:
 
-1.  **Open the `software-dev-chatbot` Folder in VS Code:**
+1.  **Extract `software-dev-chatbot.rar`:**
+    * Extract the contents of the `software-dev-chatbot.rar` file to a directory of your choice. You may need a program like WinRAR, 7-Zip, or similar to do this.
+
+2.  **Open the `software-dev-chatbot` Folder in VS Code:**
     * Open the `software-dev-chatbot` folder in VS Code.
 
-2.  **Open a New Terminal:**
+3.  **Open a New Terminal:**
     * In VS Code, open a new terminal (e.g., by going to `Terminal > New Terminal`).
 
-3.  **Install Dependencies:**
+4.  **Install Dependencies:**
     * Run the following command in the terminal to install the necessary packages:
         ```bash
         npm install express openai
         ```
 
-4.  **Install Live Server Extension (VS Code):**
+5.  **Install Live Server Extension (VS Code):**
     * In VS Code, go to the Extensions view (Ctrl+Shift+X or Cmd+Shift+X).
     * Search for "Live Server" and install it.
 
-5.  **Run the Server:**
+6.  **Run the Server:**
     * In the terminal, execute the following command to start your server (assuming your server file is named `server.js`):
         ```bash
         node server.js
         ```
 
-6.  **Access Your Application:**
+7.  **Access Your Application:**
     * Open your web browser and navigate to:
         ```
         http://localhost:3000/
